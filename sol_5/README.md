@@ -3,5 +3,7 @@
 This solution uses MQ135 sensor for mesuring CO2 level. 
 The code is written in micropython and the library for MQ135 sensor is downloaded separately.
 
+For better undestanding, I have included the code in mq135.py.
+
 ## Circuit diagram
 <img src="diagram.png">
